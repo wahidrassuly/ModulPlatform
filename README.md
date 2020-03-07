@@ -74,3 +74,5 @@ Link: https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=300&no
 **Objekt**        | Clients, Server (File, Print, DNS, DHCP, Directory Services, Terminal, SSH, Web) und Peripherie mit unterschiedlichen Betriebssystemen in einem einfachen Netzwerk.
 **Niveau**        | 3
 **Voraussetzung** | Konfigurieren und betreiben von PCs. Servern und Peripherie (Multiusersysteme) Erfahrung im Aufbau von lokalen Netzwerken
+
+test
