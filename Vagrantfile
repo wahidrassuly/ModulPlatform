@@ -12,3 +12,4 @@ config.vm.provision "shell", inline: <<-SHELL
   sudo apt-get -y install apache2 
 SHELL
 end
+
